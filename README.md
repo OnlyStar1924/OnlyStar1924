@@ -7,31 +7,30 @@ Specializing in Mobile Game Development (Android/iOS), WebGL, and performance op
 
 ## 🎮 Featured Projects
 
-### myVEGAS Slots
-> *Casino Slots on moblie/WebGL 100m+ downloaded*
+### 🎰 myVEGAS Slots
+> *Casino Slots on mobile/WebGL with 100M+ downloads worldwide.*
 
 - **Tech Stack:** Unity, C#, WebGL
 - **Role:** Game Engineer
-- 🔗 **Links:** [Play WebGL](https://www.myvegas.com/) | [GooglePlay](https://play.google.com/store/apps/details?hl=en&id=com.playstudios.myvegas&referrer=singular_click_id%3D4b201151-88f5-41de-a0da-733df110ab60&pli=1) | [AppStore](https://apps.apple.com/us/app/myvegas-slots-real-rewards/id714508224)
+- 🔗 **Links:** [Play WebGL](https://www.myvegas.com/) | [Google Play](https://play.google.com/store/apps/details?hl=en&id=com.playstudios.myvegas) | [App Store](https://apps.apple.com/us/app/myvegas-slots-real-rewards/id714508224)
 
 ---
 
-### Palzgame
-> *Virtual pet game*
+### 🐾 Palzgame
+> *Virtual pet game featuring dynamic interaction systems.*
 
 ![Gameplay Demo 1](assets/palz_1.gif)
 
 - **Tech Stack:** Unity, C#, WebGL
 - **Role:** Core Gameplay, UI Systems, Optimization
-- 🔗 **Links:** [[Play WebGL](https://www.palzgame.com/)]
+- 🔗 **Links:** [Play WebGL](https://www.palzgame.com/)
 
 ---
 
-### Sushi Cat
-> *Roguelike, casual, indie, mobile game*
+### 🐱 Sushi Cat
+> *Casual Roguelike indie mobile game.*
 
 ![Gameplay Demo 1](assets/sushi_1.gif)
-
 ![Gameplay Demo 2](assets/sushi_2.gif)
 
 - **Tech Stack:** Unity, C#, Mobile
@@ -40,11 +39,10 @@ Specializing in Mobile Game Development (Android/iOS), WebGL, and performance op
 
 ---
 
-### Jigsaw With Skill
-> *Casual, puzzle mobile game*
+### 🧩 Jigsaw With Skill
+> *Casual puzzle mobile game with unique skill mechanics.*
 
 ![Gameplay Demo 1](assets/jigsaw_1.gif)
-
 ![Gameplay Demo 2](assets/jigsaw_2.gif)
 
 - **Tech Stack:** Unity, C#, Mobile
@@ -53,8 +51,8 @@ Specializing in Mobile Game Development (Android/iOS), WebGL, and performance op
 
 ---
 
-### Swings Copter
-> *Hyper-casual mobile game*
+### 🚁 Swings Copter
+> *Hyper-casual mobile game with challenging physics-based controls.*
 
 ![Gameplay Demo 1](assets/swing_1.gif)
 
@@ -64,8 +62,8 @@ Specializing in Mobile Game Development (Android/iOS), WebGL, and performance op
 
 ---
 
-### Super Ball juggling
-> *Hyper-casual mobile game*
+### ⚽ Super Ball Juggling
+> *Hyper-casual mobile skill game.*
 
 ![Gameplay Demo 1](assets/ball_1.gif)
 
@@ -75,8 +73,8 @@ Specializing in Mobile Game Development (Android/iOS), WebGL, and performance op
 
 ---
 
-### Shuriken Block
-> *Hyper-casual mobile game*
+### 🥷 Shuriken Block
+> *Fast-paced hyper-casual mobile game.*
 
 ![Gameplay Demo 1](assets/shuriken_1.gif)
 
@@ -86,8 +84,8 @@ Specializing in Mobile Game Development (Android/iOS), WebGL, and performance op
 
 ---
 
-### Flappy Bird With Boss
-> *Hyper-casual mobile game*
+### 🐦 Flappy Bird With Boss
+> *Action-packed hyper-casual game with unique boss fight mechanics.*
 
 ![Gameplay Demo 1](assets/flappy_1.gif)
 
@@ -97,12 +95,11 @@ Specializing in Mobile Game Development (Android/iOS), WebGL, and performance op
 
 ---
 
-### Monters Survival
-> *Casual, survival mobile game*
+### 👾 Monsters Survival
+> *Casual survival mobile game with horde action gameplay.*
 
 ![Gameplay Demo 1](assets/monter_1.gif)
 ![Gameplay Demo 2](assets/monter_2.gif)
-
 
 - **Tech Stack:** Unity, C#, Mobile
 - **Role:** Solo Game Developer
@@ -122,5 +119,5 @@ Specializing in Mobile Game Development (Android/iOS), WebGL, and performance op
 ## 📫 Connect With Me
 
 - **Email:** phamkien1998@gmail.com
-- **LinkedIn:** [[linkedin](https://www.linkedin.com/in/ki%C3%AAn-ph%E1%BA%A1m-trung-7b0404216/)]
-- **What's App / Zalo** 0339949705
+- **LinkedIn:** [Kien Pham](https://www.linkedin.com/in/ki%C3%AAn-ph%E1%BA%A1m-trung-7b0404216/)
+- **WhatsApp / Zalo:** (+84) 339 949 705
