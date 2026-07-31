@@ -10,6 +10,8 @@ Specializing in Mobile Game Development (Android/iOS), WebGL, and performance op
 ### 🎰 myVEGAS Slots
 > *Casino Slots on mobile/WebGL with 100M+ downloads worldwide.*
 
+![Gameplay Demo](https://drive.google.com/drive/folders/1MOob2S8C2xCnaxLCJ4u-wF-S9pYyOinP)
+
 - **Tech Stack:** Unity, C#, WebGL
 - **Role:** Game Engineer
 - 🔗 **Links:** [Play WebGL](https://www.myvegas.com/) | [Google Play](https://play.google.com/store/apps/details?hl=en&id=com.playstudios.myvegas) | [App Store](https://apps.apple.com/us/app/myvegas-slots-real-rewards/id714508224)
