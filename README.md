@@ -40,7 +40,7 @@ Specializing in Mobile Game Development (Android/iOS), WebGL, and performance op
 
 - **Tech Stack:** Unity, C#, Mobile
 - **Role:** Solo Game Developer
-- 🔗 **Links:** [Play WebGL](#) | [Download APK](#)
+- 🔗 **Links:** [Play WebGL](#) | [Download APK](https://drive.google.com/file/d/1C_tUq8BE2QT3h29dsHwTDWzyUVS5dXEY/view?usp=drive_link)
 
 ---
 
@@ -52,7 +52,7 @@ Specializing in Mobile Game Development (Android/iOS), WebGL, and performance op
 
 - **Tech Stack:** Unity, C#, Mobile
 - **Role:** Solo Game Developer
-- 🔗 **Links:** [Play WebGL](#) | [Download APK](#)
+- 🔗 **Links:** [Play WebGL](#) | [Download APK](https://drive.google.com/file/d/1sloRQNPIcpDJ528uco3m0Z1vqi6VxPBY/view?usp=drive_link)
 
 ---
 
